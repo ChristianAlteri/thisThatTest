@@ -16,4 +16,15 @@ code {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  
+}
+
+.input {
+  width: 15vw;
+  height: 2vh;
+  padding: 4px;
+  border: 1px solid #000000;
+  border-radius: 4px;
+
+
 }
